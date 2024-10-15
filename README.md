@@ -94,8 +94,6 @@ CWE-312: Cleartext Storage of Sensitive Information
 Personal data such as phone numbers and user IDs are easily accessible and stored in cleartext across URLs.
 
 
-
-
 ---
 
 CVSS Score:
@@ -103,7 +101,6 @@ CVSS Score:
 Base Score: 9.1 (Critical)
 
 Vector: AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:N
-
 
 
 ---
@@ -128,7 +125,7 @@ Conclusion:
 This vulnerability poses a significant risk to user privacy, enabling malicious actors to compile and exploit sensitive personal data with little effort. It affects both WhatsApp and Facebook users by exposing phone numbers, profile details, and other identifying information, leading to serious stalking or social engineering threats.
 
 ### Pictures:
-
+![Logo/Nft](https://raw.githubusercontent.com/DeadmanXXXII/DeadmanXXXII.github.io/main/site_pics/logo/nft/logo2%20(1).png)
 
 
 User PFBIDs and more exposure using basic python script.
