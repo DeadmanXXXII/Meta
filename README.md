@@ -142,6 +142,8 @@ This vulnerability poses a significant risk to user privacy, enabling malicious 
 ![Data found](https://raw.githubusercontent.com/DeadmanXXXII/MetA/main/Screenshot_20241015-151857.png)
 
 
+![Data found](https://raw.githubusercontent.com/DeadmanXXXII/MetA/main/Screenshot_20241015-135759.png)
+
 ![Data found](https://raw.githubusercontent.com/DeadmanXXXII/MetA/main/Screenshot_20241015-135900.png)
 
 ![Data found](https://raw.githubusercontent.com/DeadmanXXXII/MetA/main/Screenshot_20241015-135759.png)
