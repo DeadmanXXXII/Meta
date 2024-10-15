@@ -133,7 +133,7 @@ Packages: selenium, chromedriver.
 Hacker: DeadmanXXXII
 15/10/2024
 
-Terminal:
+Terminal: Also present in text.docx due to markdown making it look crazy.
 
 ┌──(root㉿localhost)-[~/remedy/Scraped]
 └─# python3 ls4.py
