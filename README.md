@@ -11,7 +11,8 @@ Summary: A vulnerability exists in the way Meta handles Facebook and WhatsApp ac
 
 Steps to Reproduce:
 
-1. Access a compromised or leaked WhatsApp phone number URL, such as:
+1. I found this URL in an old report the phone number is a mutable variable.
+ WhatsApp phone number URL, such as:
 
 https://www.whatsapp.com/accounts?phone=905425687550&
 
@@ -29,7 +30,11 @@ The Facebook profile name.
 
 The Public Facebook ID (PFBID) which is associated with numerical profile IDs, further exposing other profile details.
 
-Facebook profile pictures.
+Facebook profile and private pictures.
+
+A mobile number.
+
+An associated WhatsApp account.
 
 
 
@@ -129,7 +134,19 @@ Conclusion:
 This vulnerability poses a significant risk to user privacy, enabling malicious actors to compile and exploit sensitive personal data with little effort. It affects both WhatsApp and Facebook users by exposing phone numbers, profile details, and other identifying information, leading to serious stalking or social engineering threats.
 
 ### Pictures:
-![Logo/Nft](https://raw.githubusercontent.com/DeadmanXXXII/MetA/main/Screenshot_20241015-135759.png)
+
+
+![Data found](https://raw.githubusercontent.com/DeadmanXXXII/MetA/main/Screenshot_20241015-135759.png)
+
+
+![Data found](https://raw.githubusercontent.com/DeadmanXXXII/MetA/main/Screenshot_20241015-135759.png)
+
+
+![Data found](https://raw.githubusercontent.com/DeadmanXXXII/MetA/main/Screenshot_20241015-135759.png)
+
+![Data found](https://raw.githubusercontent.com/DeadmanXXXII/MetA/main/Screenshot_20241015-135759.png)
+
+![Data found](https://raw.githubusercontent.com/DeadmanXXXII/MetA/main/Screenshot_20241015-135759.png)
 
 
 User PFBIDs and more exposure using basic python script.
