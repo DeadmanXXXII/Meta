@@ -70,6 +70,10 @@ Impact: This vulnerability allows for the collection of the following types of s
 
 4. Other sensitive URLs exposing user-specific data.
 
+5. FBID'S not public
+
+6. Individual picture IDs
+
 
 
 This personal information can be used to stalk, socially engineer, or harass users across platforms. The data leakage allows a malicious actor to compile user details without their consent, leading to potential harm.
