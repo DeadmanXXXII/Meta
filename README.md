@@ -136,10 +136,10 @@ This vulnerability poses a significant risk to user privacy, enabling malicious 
 ### Pictures:
 
 
-![Data found](https://raw.githubusercontent.com/DeadmanXXXII/MetA/main/Screenshot_20241015-135759.png)
+![Data found](https://raw.githubusercontent.com/DeadmanXXXII/MetA/main/Screenshot_20241015-220332.png)
 
 
-![Data found](https://raw.githubusercontent.com/DeadmanXXXII/MetA/main/Screenshot_20241015-135759.png)
+![Data found](https://raw.githubusercontent.com/DeadmanXXXII/MetA/main/Screenshot_20241015-151857.png)
 
 
 ![Data found](https://raw.githubusercontent.com/DeadmanXXXII/MetA/main/Screenshot_20241015-135759.png)
