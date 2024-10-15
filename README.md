@@ -125,7 +125,7 @@ Conclusion:
 This vulnerability poses a significant risk to user privacy, enabling malicious actors to compile and exploit sensitive personal data with little effort. It affects both WhatsApp and Facebook users by exposing phone numbers, profile details, and other identifying information, leading to serious stalking or social engineering threats.
 
 ### Pictures:
-![Logo/Nft](https://raw.githubusercontent.com/DeadmanXXXII/DeadmanXXXII.github.io/main/site_pics/logo/nft/logo2%20(1).png)
+![Logo/Nft](https://raw.githubusercontent.com/DeadmanXXXII/MetA/main/Screenshot_20241015-135759.png)
 
 
 User PFBIDs and more exposure using basic python script.
