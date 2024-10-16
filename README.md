@@ -288,6 +288,7 @@ https://www.facebook.com/profile.php?id=100064758844406
 
 ┌──(root㉿localhost)-[~/remedy/Scraped]
 └─# cat ls4.py
+```python
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
@@ -324,7 +325,7 @@ try:
 finally:
     # Clean up
     driver.quit()
-
+```
 
 ┌──(root㉿localhost)-[~/remedy/Scraped]
 └─# curl -I -L https://www.facebook.com/profile.php?id=100064758844409
