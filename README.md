@@ -166,7 +166,9 @@ This vulnerability poses a significant risk to user privacy, enabling malicious 
 
 ![Data found](https://raw.githubusercontent.com/DeadmanXXXII/MetA/main/Screenshot_20241015-222358.png)
 
-![Data found](https://raw.githubusercontent.com/DeadmanXXXII/MetA/main/Screenshot_20241015-222358.png)
+![Data found](https://raw.githubusercontent.com/DeadmanXXXII/MetA/main/Screenshot_20241016-011707.png)
+
+Just like that a phone number, a Facebook profile, associated people, pictures, general location, all the datas locations. I could move forward with seizing the account but I won't.
 
 
 
