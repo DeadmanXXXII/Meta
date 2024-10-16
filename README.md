@@ -172,7 +172,7 @@ Just like that a phone number, a Facebook profile, associated people, pictures, 
 
 
 
-Terminal: Also present in text.docx due to markdown making it look crazy.
+Terminal: Also present in text.docx above.
 
 ┌──(root㉿localhost)-[~/remedy/Scraped]
 └─# python3 ls4.py
