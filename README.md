@@ -4,6 +4,14 @@ Bug Bounty Report for Meta (Facebook/WhatsApp)
 
 Title: Exposure of Sensitive User Information via Linked Facebook and WhatsApp Accounts
 
+**User PFBIDs and more exposure using a basic python script.**
+
+**Packages: selenium, chromedriver.**
+
+**Hacker: DeadmanXXXII**
+
+**Date: 15/10/2024**
+
 Summary: A vulnerability exists in the way Meta handles Facebook and WhatsApp account integration. This flaw allows attackers to collect sensitive information, including Facebook profile pictures, Public Facebook IDs (PFBIDs), and WhatsApp phone numbers. The attacker can compile personal data for multiple users with minimal effort, leading to a severe privacy violation and increasing the risk of targeted stalking and social engineering attacks.
 
 
@@ -150,10 +158,7 @@ This vulnerability poses a significant risk to user privacy, enabling malicious 
 ![Data found](https://raw.githubusercontent.com/DeadmanXXXII/MetA/main/Screenshot_20241015-222358.png)
 
 
-User PFBIDs and more exposure using basic python script.
-Packages: selenium, chromedriver.
-Hacker: DeadmanXXXII
-15/10/2024
+
 
 Terminal: Also present in text.docx due to markdown making it look crazy.
 
