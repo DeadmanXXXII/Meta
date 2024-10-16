@@ -21,7 +21,7 @@ Title: Exposure of Sensitive User Information via Linked Facebook and WhatsApp A
 
 *Website: https://the-mad-hatters-playground.netlify.app*
 
-Summary: A vulnerability exists in the way Meta handles Facebook and WhatsApp account integration. This flaw allows attackers to collect sensitive information, including Facebook profile pictures, Public Facebook IDs (PFBIDs), and WhatsApp phone numbers. The attacker can compile personal data for multiple users with minimal effort, leading to a severe privacy violation and increasing the risk of targeted stalking and social engineering attacks.
+Summary: A vulnerability exists in the way Meta handles Facebook and WhatsApp account integration. This flaw allows attackers to collect sensitive information, including Facebook private pictures, Public Facebook IDs (PFBIDs), FBID'S private fb id numbers and WhatsApp phone numbers. The attacker can compile personal data for multiple users with minimal effort, leading to a severe privacy violation and increasing the risk of targeted stalking and social engineering attacks.
 
 
 ---
@@ -166,6 +166,7 @@ This vulnerability poses a significant risk to user privacy, enabling malicious 
 
 ![Data found](https://raw.githubusercontent.com/DeadmanXXXII/MetA/main/Screenshot_20241015-222358.png)
 
+![Data found](https://raw.githubusercontent.com/DeadmanXXXII/MetA/main/Screenshot_20241015-222358.png)
 
 
 
