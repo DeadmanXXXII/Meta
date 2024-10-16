@@ -17,14 +17,17 @@ Steps to Reproduce:
 https://www.whatsapp.com/accounts?phone=905425687550&
 
 
-
 2. Follow the link to the associated Facebook profile, which reveals:
 
 https://www.facebook.com/profile.php?id=100064758844407
 
+3. Use curl -I -L https://www.facebook.com/profile.php?id=100064758844407
+Under the Location header in the output grab that URL to go into ls4.py
 
 
-3. The attacker now has access to the following:
+4. python3 ls4.py
+
+5. The attacker now has access to the following:
 
 The Facebook profile name.
 
@@ -38,10 +41,7 @@ An associated WhatsApp account.
 
 
 
-4. The process can be repeated for multiple users, accumulating sensitive information like WhatsApp phone numbers, Facebook profile details, and personal images, all without authentication.
-
-
-
+6. The process can be repeated for multiple users, accumulating sensitive information like WhatsApp phone numbers, Facebook profile details, and personal images, all without authentication.
 
 ---
 
@@ -58,20 +58,15 @@ Profile images with numerical IDs (PFBIDs) attached to URLs.
 Example: User Nandar Singh (see screenshot for visual proof of profile image access).
 
 
-
-
 ---
 
 Impact: This vulnerability allows for the collection of the following types of sensitive user information:
 
 1. Facebook Profile Pictures.
 
-
 2. WhatsApp Numbers.
 
-
 3. Public Facebook IDs (PFBIDs).
-
 
 4. Other sensitive URLs exposing user-specific data.
 
