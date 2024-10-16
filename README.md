@@ -14,8 +14,11 @@ Title: Exposure of Sensitive User Information via Linked Facebook and WhatsApp A
 
 ### Contact info:
 *Email: themadhattersplayground@gmail.com*
+
 *Instagram: CyberShorts2024*
+
 *LinkedIn: Blu Corbel*
+
 *Website: https://the-mad-hatters-playground.netlify.app*
 
 Summary: A vulnerability exists in the way Meta handles Facebook and WhatsApp account integration. This flaw allows attackers to collect sensitive information, including Facebook profile pictures, Public Facebook IDs (PFBIDs), and WhatsApp phone numbers. The attacker can compile personal data for multiple users with minimal effort, leading to a severe privacy violation and increasing the risk of targeted stalking and social engineering attacks.
